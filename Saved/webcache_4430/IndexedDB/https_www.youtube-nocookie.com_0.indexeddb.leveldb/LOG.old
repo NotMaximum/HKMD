@@ -1,0 +1,6 @@
+2023/07/28-10:52:28.019 81b4 Creating DB C:/Users/Max/Documents/GitHub/HKMD/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/07/28-10:52:28.025 81b4 Reusing MANIFEST C:/Users/Max/Documents/GitHub/HKMD/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/28-10:53:28.289 1ae4 Level-0 table #5: started
+2023/07/28-10:53:28.295 1ae4 Level-0 table #5: 1167 bytes OK
+2023/07/28-10:53:28.295 1ae4 Delete type=0 #3
+2023/07/28-10:53:28.295 1ae4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
